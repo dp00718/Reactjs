@@ -1,0 +1,76 @@
+{
+  "name": "divyesh3tailwind",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@headlessui/react": "^1.7.18",
+    "@heroicons/react": "^2.1.1",
+    "@mui/material": "^5.15.15",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.17",
+    "@react-providers/cart": "^1.3.51",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.18",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "cart": "^1.1.2",
+    "cdnjs": "^0.3.2",
+    "footer-react": "^0.1.4",
+    "formik": "^2.4.5",
+    "jspdf": "^2.5.1",
+    "mdb-react-ui-kit": "^7.2.0",
+    "postcss": "^8.4.35",
+    "react": "^18.2.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.2.0",
+    "react-headings": "^3.2.12",
+    "react-icons": "^5.0.1",
+    "react-loader-spinner": "^6.1.6",
+    "react-modern-drawer": "^1.2.2",
+    "react-multi-carousel": "^2.8.4",
+    "react-responsive-carousel": "^3.2.22",
+    "react-scripts": "5.0.1",
+    "react-scroll-to-top": "^3.0.0",
+    "react-slideshow-image": "^4.3.1",
+    "react-sticky-header": "^0.2.0",
+    "react-use-cart": "^1.2.1",
+    "sass": "^1.71.1",
+    "styled-components": "^6.1.8",
+    "tailwindcss": "^3.4.1",
+    "typewriter-effect": "^2.21.0",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.22.3"
+  }
+}
